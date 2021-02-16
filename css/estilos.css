@@ -1,7 +1,13 @@
+/*
 #titulo, .missao {
     font-family: Arial, Helvetica, sans-serif
 }
 
 .introducao, .missao {
     color: red;
+}
+*/
+
+article .missao strong {
+    color: green;
 }
