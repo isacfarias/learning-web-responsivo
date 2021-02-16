@@ -6,8 +6,22 @@
 .introducao, .missao {
     color: red;
 }
-*/
 
 article .missao strong {
     color: green;
+}
+
+article > .importante {
+    color: red;
+}
+
+article > .importante strong {
+    color: red;
+}
+
+*/
+
+
+article .importante > strong {
+    color: red;
 }
